@@ -11,10 +11,10 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-              quam purus, ullamcorper id risus eu, consectetur consectetur
-              purus. Etiam sagittis in eros ac sollicitudin.
+           In Shivay Infotech We build web Applications , E-commerce Website, Mobile Applications and many more technical services.
             </p>
+<p className="main-p"> We use technologies like Node.js ,React ,Angular.js ,javascript and databses like Mongodb and SQL.
+</p>
           </div>
         </div>
       </div>

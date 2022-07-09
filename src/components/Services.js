@@ -7,13 +7,13 @@ function Services() {
             <div className="col-md-12">
                 <div className="row">
                     <div className="col-md-4 mb-2">
-                        <Card title="Web Development" img="card1.png" text="Morbi eget neque risus. Duis erat quam, porta quis enim id, venenatis blandit nunc. " />
+                        <Card title="Web Development" img="card1.png" text=" Website is one of the most important element for surviving in today’s competitive online market. " />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="E-Commerce Services" img="card2.png" text="Maecenas dictum efficitur felis non gravida. Vestibulum vitae ante luctus, accumsan mi vitae, pretium metus." />
+                    <Card title="E-Commerce Services" img="card2.png" text="E-Commerce is a platform which helps in expanding horizons of your business online. We offer budget friendly creative E-commerce Solutions for all your needs. We help you to sell your products in a simple, powerful and cost effective way" />
                     </div>
                     <div className="col-md-4 mb-2">
-                    <Card title="Cyber Security" img="card3.png" text="Phasellus suscipit nibh at nisi finibus vestibulum sit amet vitae massa. Suspendisse non est eget elit pulvinar consectetur nec non sapien." />
+                    <Card title="Mobile Applications" img="card3.png" text="A Website is one of the most important element for surviving in today’s competitive online market." />
                     </div>
                 </div>
             </div>
