@@ -50,28 +50,28 @@ function Footer() {
                     <Link to="#" >Nirav Gondaliya</Link>
                   </li>
                   <li>
-                    <Link to="#" >Niravgondaliya2565@gmail.com</Link>
+                    <a href="mailto:niravgondaliya2565@gmail.com">niravgondaliya2565@gmail.com</a>
                   </li>
                   <li>
-                    <Link to="#" > (+91) 6354010189</Link>
+                    <a href="tel:+91 6354010189"> (+91) 6354010189</a> 
                   </li>
                   <li>
                     <Link to="#" >Vinay Danidhariya</Link>
                   </li>
                   <li>
-                    <Link to="#" >Vinaydanidhariya@gmail.com</Link>
+                  <a href="mailto:vinaydanidhariya@gmail.com">vinaydanidhariya@gmail.com</a>
                   </li>
                   <li>
-                    <Link to="#" > (+91) 9265979359</Link>
+                  <a href="tel:+91 9265979359"> (+91) 9265979359</a> 
                   </li>
                   <li>
-                    <Link to="#" >Rahul Gondaliya</Link>
+                    <Link to="#">Rahul Gondaliya</Link>
                   </li>
                   <li>
-                    <Link to="#" >Rahulgonadaliya@gmail.com</Link>
+                  <a href="mailto:rahulgonadaliya0182565@gmail.com">rahulgonadaliya0182565@gmail.com</a>
                   </li>
                   <li>
-                    <Link to="#" > (+91) 6353831031</Link>
+                  <a href="tel:+91 6353831031"> (+91) 6353831031</a> 
                   </li>
                 
                 
@@ -81,13 +81,13 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/darkleas" > Github</a>
+                    <a target="_blank" rel="noreferrer" href="" > Github</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a>
+                    <a target="_blank" rel="noreferrer" href="" > Twitter</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> Linkedin</a>
+                    <a target="_blank" rel="noreferrer" href=""> Linkedin</a>
                   </li>
                 </ul>
               </div>
